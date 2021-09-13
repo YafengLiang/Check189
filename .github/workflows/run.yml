@@ -8,7 +8,7 @@ on:
   watch:
     types: started
   schedule:
-    - cron: 1 3 * * *
+    - cron: 1 2 * * *
 jobs:
   Cloud189Checkin:
     runs-on: ubuntu-latest
