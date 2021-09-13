@@ -10,7 +10,7 @@ on:
   schedule:
     - cron: 1 2 * * *
 jobs:
-  Cloud189Checkin:
+  Check189:
     runs-on: ubuntu-latest
 
     steps:
