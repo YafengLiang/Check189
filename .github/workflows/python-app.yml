@@ -15,7 +15,7 @@ on:
 
 
 jobs:
-  build: Check189
+  Check189:
 
     runs-on: ubuntu-latest
 
