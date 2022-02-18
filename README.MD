@@ -58,3 +58,5 @@ Actions > Cloud189Checkin > build
 此后，将会在每天9:01开始签到
 若有需求，可以在[.github/workflows/run.yml]中自行修改
 
+60天后会自动停止，可以收到邮件  打开邮件连接，自动提转到Actions中，打开enable开关就行
+
