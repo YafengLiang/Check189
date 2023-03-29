@@ -53,7 +53,7 @@ def main():
     else:
         try:
             if response.json()['errorCode'] == "User_Not_Chance":
-                print("抽奖次数不足")
+                print("抽奖次数不足！")
             else:
                 print(response.text)
         except:
@@ -68,7 +68,7 @@ def main():
     else:
         try:
             if response.json()['errorCode'] == "User_Not_Chance":
-                print("抽奖次数不足")
+                print("抽奖次数不足！")
             else:
                 print(response.text)
         except:
