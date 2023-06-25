@@ -11,7 +11,7 @@ on:
   watch:
     types: started
   schedule:
-    - cron: 1 4 * * *
+    - cron: * * * * 1
 
 jobs:
   Check189:
