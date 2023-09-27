@@ -215,5 +215,5 @@ def handler(event, context):  # aliyun default
 
 
 if __name__ == "__main__":
-    time.sleep(random.randint(5, 30))
+    # time.sleep(random.randint(5, 30))
     main()
