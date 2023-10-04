@@ -14,14 +14,17 @@ B64MAP = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/"
 s = requests.Session()
 
 # accounts = [
-#     {"username": "17858609198", "password": "Lyf@1234"},
-#     # 添加更多账号和密码格式同上一行
+#     {"username": "16653555520", "password": "g8169616."},
+#     {"username": "13345555689", "password": "g8169616."},
+#     {"username": "13345555621", "password": "Bingtian0919."},
+#     {"username": "13465456028", "password": "Bingtian0919."}
+#     {"username": "13361334302", "password": "Bingtian0919."}
 # ]
 # 填入pushplus token
-# pushplus_token = "19e725762aa34b1e9508cab53877f858"
+# pushplus_token = "19,,,e725762aa34b1e9508cab53877f858"
 # 钉钉机器人token 申请key 并设置密钥
-# ddtoken = ""
-# ddsecret = ""
+# ddtoken = "c841cc827af3762202dc982ebb10c42fdec8b717c9d353136ec32b2e202efd98"
+# ddsecret = "SEC8cefcff6688d5a7616c68fdcba924802a92e8e399cfa87b00de28e97ab60e847"
 # xuthuskey = "27a...........................7b"
 
 username = ""
