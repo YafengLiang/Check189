@@ -51,7 +51,7 @@ jobs:
         }
         function DingDing()
         {
-          echo -n "钉钉机器人："
+          echo -n "钉钉de机器人："
           curl -s "${DingDingBot}" \
             -H 'Content-Type: application/json' \
             -d '
