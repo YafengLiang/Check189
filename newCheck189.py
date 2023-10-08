@@ -14,7 +14,6 @@ B64MAP = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/"
 s = requests.Session()
 
 # accounts = [
-#     {"username": "17858609198", "password": "Lyf@1234"},
 #     # 添加更多账号和密码格式同上一行
 # ]
 # 填入pushplus token
