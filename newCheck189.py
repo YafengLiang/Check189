@@ -17,7 +17,7 @@ s = requests.Session()
 #     # 添加更多账号和密码格式同上一行
 # ]
 # 填入pushplus token
-# pushplus_token = "19e725762aa34b1e9508cab53877f858"
+# pushplus_token = "19e***"
 # 钉钉机器人token 申请key 并设置密钥
 # ddtoken = ""
 # ddsecret = ""
